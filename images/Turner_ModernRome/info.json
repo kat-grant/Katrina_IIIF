@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 67,
+    "height" : 50
+  }, {
+    "width" : 133,
+    "height" : 100
+  }, {
+    "width" : 266,
+    "height" : 199
+  }, {
+    "width" : 532,
+    "height" : 397
+  }, {
+    "width" : 1063,
+    "height" : 794
+  }, {
+    "width" : 2126,
+    "height" : 1587
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2126,
+  "@id" : "https://kat-grant.github.io/Katrina_IIIF/images/Turner_ModernRome",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1587
+}
