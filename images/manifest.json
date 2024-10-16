@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2000,
+    "id" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK/canvas/",
+    "label" : {
+      "none" : [ "Anon_Plan_TorreOlevola_RCUK" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 46
+            }, {
+              "width" : 125,
+              "height" : 91
+            }, {
+              "width" : 250,
+              "height" : 182
+            }, {
+              "width" : 500,
+              "height" : 363
+            }, {
+              "width" : 1000,
+              "height" : 725
+            }, {
+              "width" : 2000,
+              "height" : 1450
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1450
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2000,
+          "id" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1450
+        },
+        "target" : "https://kat-grant.github.io/Katrina_IIIF/images/Anon_Plan_TorreOlevola_RCUK/canvas/"
+      } ]
+    } ],
+    "height" : 1450
+  }, {
     "width" : 2126,
     "id" : "https://kat-grant.github.io/Katrina_IIIF/images/Turner_ModernRome/canvas/",
     "label" : {
